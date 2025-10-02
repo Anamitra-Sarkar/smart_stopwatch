@@ -13,7 +13,7 @@ Smart Stopwatch is a simple, interactive web-based stopwatch application develop
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla or Framework, update as appropriate)
+- JavaScript
 
 ## Getting Started
 
